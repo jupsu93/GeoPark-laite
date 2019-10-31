@@ -1,0 +1,2 @@
+# GeoPark-laite
+Parkkipaikan sijaintipalvelu
